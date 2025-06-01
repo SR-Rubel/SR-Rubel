@@ -1,33 +1,21 @@
-### Hi there,  - my name Rubel 👋 
+## 👋 Hello, I'm Rubel Hossain
 
+I'm a passionate developer who enjoys solving real-world problems through code. Whether it's building web applications, automating tasks, or diving into new technologies, I’m always looking to grow and contribute.
 
-## I'm a full-stack web developer and Machine Learning researcher!!
+### 🚀 About Me
+- 💻 I love exploring new technologies and tools
+- 📚 Always learning and improving my skills
+- 🌐 Interested in open-source and collaborative projects
+- 🎯 Focused on writing clean, efficient, and maintainable code
 
-- 🔭 I currently working on Ecommerce api with laravel and React
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute some Open Source projects
-- ⚡ Fun fact: I'm over overconfident all time
+### 🛠️ Technologies & Tools
+- Languages: `Python`, `JavaScript`, `C/C++`
+- Frameworks: `React`, `Node.js`, `Django`
+- Tools: `Git`, `VS Code`, `Postman`, `Docker`
 
-### Connect with me:
-[<img align="left" alt="Rubel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 📫 Connect with Me
+- Email: *mdrubelh739@gmail.com *
 
-<br />
+---
 
-### Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<br />
-<br />
-
-
-[linkedin]: https://www.linkedin.com/in/rubel-hossain-33a1a8228/
+Thanks for visiting my profile! Feel free to check out my projects and reach out if you'd like to collaborate. 🚀
